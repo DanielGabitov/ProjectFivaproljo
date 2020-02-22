@@ -53,11 +53,11 @@ if (...) {
 * Синтаксис класс (с соблюдением порядка модификаторов доступа):
 ```c++
 Class A {
-  public:
+public:
     int fst;
-  protected:
+protected:
     int snd;
-  private:
+private:
     int trd;
 };
 ```
