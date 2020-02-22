@@ -15,7 +15,7 @@ int main() {
     //...
 }
 ```
-* Синтаксис темплейтов: `vector<vecotr<int>> v`.
+* Синтаксис темплейтов: `vector<vector<int>> v`.
 * Синтаксис namespace'ов (обратите внимание на оступы):
 ```c++
 namespace my_namespace {
