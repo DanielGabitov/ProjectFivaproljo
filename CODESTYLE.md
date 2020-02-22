@@ -64,7 +64,7 @@ Class A {
 * Синтаксис конструкторов:
 ```c++
 A::A() {
-    a = new int;
+    int a = new int;
     *a = 2;
 }
 
