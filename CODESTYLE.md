@@ -107,7 +107,7 @@ Class Derived : public Base {
 ```
 ## Нейминг
 * Очевидные вещи очевидны. (Чем шире scope, тем информативнее название переменной...)
-* Название файлов: `ExecutiveName.cpp`, `HeaderName.hpp`.
+* Название файлов: `ExecutiveName.cpp`, `HeaderName.hpp`, исключение: `main.cpp`.
 * Названия классов и структур: `CamelCase`. Иногда (например, `vector`) в `snake_case`.
 * Название переменных, функций и методов: `snake_case`.
 * Дефайны, enum'ы, константы: `SCREAMING_SNAKE_CASE`.
