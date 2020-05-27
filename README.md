@@ -5,6 +5,8 @@
 * C++17
 * QT 5.14.
 
+Работа над проектом велась в репозитории: https://github.com/TheSecondThread/FivaproljoTasks.
+
 ## Сборка проекта
 В папке проекта:
 ```
