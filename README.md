@@ -1,6 +1,7 @@
 # Project Fivaproljo
 
 ## Системные требования 
+* Linux или macOS
 * CMake 3.15
 * C++17
 * QT 5.14.
