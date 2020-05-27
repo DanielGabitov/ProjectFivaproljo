@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/SpringProject2020.dir/main.cpp.o  -o SpringProject2020 
